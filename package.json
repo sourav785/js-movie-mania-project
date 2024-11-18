@@ -1,0 +1,26 @@
+{
+  "name": "js-movie-mania-project",
+  "version": "1.0.0",
+  "description": "A Movie Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav785/js-movie-mania-project.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "TailwindCSS"
+  ],
+  "author": "Sourav Chowdhury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sourav785/js-movie-mania-project/issues"
+  },
+  "homepage": "https://github.com/sourav785/js-movie-mania-project#readme",
+  "dependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
